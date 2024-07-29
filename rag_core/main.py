@@ -38,14 +38,14 @@ def main():
     if int(args.compressor_type) == 3:
         compressed_docs = get_compressed_docs(args.question, embedding, retriever)
         
-        save_log(args.question + "\n\n" + pretty_print_docs(compressed_docs), "./logs/compress_docs/3/compressed_docs.txt")
-        save_log(args.question + "\n\n" + "\n".join(list(map(lambda x: str(x.metadata["source"]), compressed_docs))), "./logs/compress_docs/3/metadata.txt")
+        save_log(args.question + "\n\n" + pretty_print_docs(compressed_docs), "./rag_core/logs/compress_docs/3/compressed_docs.txt")
+        save_log(args.question + "\n\n" + "\n".join(list(map(lambda x: str(x.metadata["source"]), compressed_docs))), "./rag_core/logs/compress_docs/3/metadata.txt")
     else:
         llm = OllamaLLM(model="llama3")
         compressed_docs = get_compressed_docs(args.question, llm, retriever)
 
-        save_log(args.question + "\n\n" + pretty_print_docs(compressed_docs), f"./logs/compress_docs/{str(args.compressor_type)}/compressed_docs.txt")
-        save_log(args.question + "\n\n" + "\n".join(list(map(lambda x: str(x.metadata["source"]), compressed_docs))), f"./logs/compress_docs/{str(args.compressor_type)}/metadata.txt")
+        save_log(args.question + "\n\n" + pretty_print_docs(compressed_docs), f"./rag_core/logs/compress_docs/{str(args.compressor_type)}/compressed_docs.txt")
+        save_log(args.question + "\n\n" + "\n".join(list(map(lambda x: str(x.metadata["source"]), compressed_docs))), f"./rag_core/logs/compress_docs/{str(args.compressor_type)}/metadata.txt")
 
     # Get response
     rag_chain = get_LLM(compressed_docs)
@@ -58,9 +58,9 @@ def main():
 
 
     if str(args.db_type) == "faiss":        
-        save_log(args.question + "\n\n" + response, f"./logs/faiss/{str(args.compressor_type)}/response.txt")
+        save_log(args.question + "\n\n" + response, f"./rag_core/logs/faiss/{str(args.compressor_type)}/response.txt")
     else:
-        save_log(args.question + "\n\n" + response, f"./logs/chroma/{str(args.compressor_type)}/response.txt")
+        save_log(args.question + "\n\n" + response, f"./rag_core/logs/chroma/{str(args.compressor_type)}/response.txt")
 
 
     return response
