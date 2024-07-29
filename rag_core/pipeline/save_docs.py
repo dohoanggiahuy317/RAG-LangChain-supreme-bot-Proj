@@ -78,7 +78,7 @@ def main():
     parser.add_argument('--db_path', type=str, help='path to database')
     args = parser.parse_args()
     
-    save_embedding(args.docs_path, args.db_path)
+    save_embedding(folder_path=args.docs_path, db_path=args.db_path)
 
 if __name__ == "__main__":
     main()

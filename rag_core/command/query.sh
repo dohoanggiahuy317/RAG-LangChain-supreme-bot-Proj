@@ -1,3 +1,4 @@
-python3 main.py \
-    --question "What are some of the key areas of focus in Coca-Cola's sustainability efforts?" \
-    --compressor_type 3
+python3 rag_core/main.py \
+    --question "What are Coca-Cola’s primary goals in its sustainability initiatives, and how are they measured?" \
+    --compressor_type 3 \
+    --db_path "./rag_core/database/cocacola/faiss_db"

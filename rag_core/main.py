@@ -10,21 +10,21 @@ from utils.save_log import save_log
 import argparse
 import logging
 
-class args():
-    question = "What is Denison's value, mission, and vision?"
-    compressor_type = 1
-    db_type = "faiss"
-    db_path = "./rag_core/database/denison/faiss_db"
+# class args():
+#     question = "What is Denison's value, mission, and vision?"
+#     compressor_type = 1
+#     db_type = "faiss"
+#     db_path = "./rag_core/database/denison/faiss_db"
 
 def main():
 
-    # # Parser for shell script
-    # parser = argparse.ArgumentParser(description='RAG Application')
-    # parser.add_argument('--question', type=str, help='User query')
-    # parser.add_argument('--compressor_type', type=int, help='type of retriever compressor')
-    # parser.add_argument('--db_type', type=str, default="faiss", help='type of vector database')
-    # parser.add_argument('--db_path', type=str, default="./rag_core/database/denison/faiss_db", help='path to database')
-    # args = parser.parse_args()
+    # Parser for shell script
+    parser = argparse.ArgumentParser(description='RAG Application')
+    parser.add_argument('--question', type=str, help='User query')
+    parser.add_argument('--compressor_type', type=int, help='type of retriever compressor')
+    parser.add_argument('--db_type', type=str, default="faiss", help='type of vector database')
+    parser.add_argument('--db_path', type=str, default="./rag_core/database/denison/faiss_db", help='path to database')
+    args = parser.parse_args()
 
     # Set up logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
