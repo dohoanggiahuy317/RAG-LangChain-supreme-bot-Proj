@@ -23,6 +23,7 @@ def main():
     # parser.add_argument('--question', type=str, help='User query')
     # parser.add_argument('--compressor_type', type=int, help='type of retriever compressor')
     # parser.add_argument('--db_type', type=str, default="faiss", help='type of vector database')
+    # parser.add_argument('--db_path', type=str, default="./rag_core/database/denison/faiss_db", help='path to database')
     # args = parser.parse_args()
 
     # Set up logging

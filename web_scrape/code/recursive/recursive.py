@@ -31,7 +31,7 @@ def write_data(page, output_filename):
 
 
 
-def root_parsing(base_url, loader, processed_urls, output_filename, logging):
+def root_parsing(base_url, loader, processed_urls, output_filename, logging, scrape_threshold):
     """
     Parse documents from the loader and save the extracted data to the CSV file.
 
@@ -77,6 +77,9 @@ def root_parsing(base_url, loader, processed_urls, output_filename, logging):
                 logging.info(f"Processed and saved {counter} documents (total {total} documents)")
                 counter = 0
 
+            if total >= scrape_threshold:
+                break
+
     except Exception as e:
         fail_urls.add(doc.metadata['source'])
         logging.error(f"Error processing URL {doc.metadata['source']}: {e}")
@@ -101,7 +104,8 @@ def main():
     parser = argparse.ArgumentParser(description='Scrap content from a link')
     parser.add_argument('--base_url', type=str, help='link of the root url')
     parser.add_argument('--root_url', type=str, help='link of the root url')
-    parser.add_argument('--max_depth', type=int, help='stoping threshold', default=2)
+    parser.add_argument('--max_depth', type=int, help='depth threshold', default=2)
+    parser.add_argument('--scrape_threshold', type=int, help='stoping threshold', default=float("INF"))
     parser.add_argument('--output_filename', type=str, help='path to content file in csv')
     args = parser.parse_args()
 
@@ -123,7 +127,7 @@ def main():
             continue_on_failure = True)
     
     # Start parsing the documents
-    fail_urls, processed_urls = root_parsing(args.base_url, loader, processed_urls, args.output_filename, logging)
+    fail_urls, processed_urls = root_parsing(args.base_url, loader, processed_urls, args.output_filename, logging, args.scrape_threshold)
 
     logging.info(f"Failed total {len(fail_urls)} documents. Start scraping again")
 
@@ -133,7 +137,7 @@ def main():
             max_depth = int(args.max_depth),
             prevent_outside = True,
             continue_on_failure = False)
-        root_parsing(args.base_url, f_loader, processed_urls, args.output_filename, logging)
+        root_parsing(args.base_url, f_loader, processed_urls, args.output_filename, logging, args.scrape_threshold - len(processed_urls))
 
 
 # Run the main function

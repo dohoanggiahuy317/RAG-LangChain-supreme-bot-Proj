@@ -5,6 +5,7 @@ from utils.vectorstore.chroma_vectorstore import chroma_vectorstore
 from utils.embedding import get_embedding
 
 import logging
+import argparse
 
 def save_embedding(folder_path, db_type="faiss", db_path=None):
 
@@ -70,5 +71,14 @@ def combine_embedding(folder_path, db_type="faiss", db_path=None):
 
     return update_db, embedding
 
+def main():
+    # Parser for shell script
+    parser = argparse.ArgumentParser(description='RAG Application')
+    parser.add_argument('--docs_path', type=str, help='User docs')
+    parser.add_argument('--db_path', type=str, help='path to database')
+    args = parser.parse_args()
+    
+    save_embedding(args.docs_path, args.db_path)
 
-save_embedding("./web_scrape/data/denison/document_txt", db_path="./rag_core/database/denison")
+if __name__ == "__main__":
+    main()
