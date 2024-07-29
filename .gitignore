@@ -4,6 +4,13 @@
 /rag_core/database/*
 /rag_core/logs/*
 
+# Ignore Python bytecode
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 
 # Ignore build output and dependencies
 /target/
