@@ -11,9 +11,10 @@ import argparse
 import logging
 
 class args():
-    question = "What are some of the key areas of focus in Coca-Cola's sustainability efforts?"
+    question = "What is Denison's value, mission, and vision?"
     compressor_type = 1
     db_type = "faiss"
+    db_path = "./rag_core/database/denison/faiss_db"
 
 def main():
 
@@ -29,7 +30,7 @@ def main():
 
 
     # Load neccessary components
-    embedding, retriever = load_retriever(db_type = args.db_type)
+    embedding, retriever = load_retriever(db_type = args.db_type, db_path = args.db_path)
     get_compressed_docs = load_CCCompressor( compressor_type = int(args.compressor_type))
     
     # Ranking the documents

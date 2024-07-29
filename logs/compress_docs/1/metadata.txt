@@ -1,0 +1,7 @@
+What is Denison's value, mission, and vision?
+
+web_scrape/data/denison/document_txt/document_52.txt
+web_scrape/data/denison/document_txt/document_55.txt
+web_scrape/data/denison/document_txt/document_29.txt
+web_scrape/data/denison/document_txt/document_9.txt
+web_scrape/data/denison/document_txt/document_64.txt

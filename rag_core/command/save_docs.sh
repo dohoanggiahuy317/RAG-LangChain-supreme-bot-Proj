@@ -1,7 +1,7 @@
 # Define the root directory of your project
-ROOT_DIR="."
+ROOT_DIR="./rag_core"
 
 # Export PYTHONPATH to include the root directory
 export PYTHONPATH="$ROOT_DIR"
 
-python3 pipeline/save_docs.py
+python3 rag_core/pipeline/save_docs.py

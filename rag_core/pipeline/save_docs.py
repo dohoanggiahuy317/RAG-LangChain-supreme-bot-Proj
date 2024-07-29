@@ -16,9 +16,9 @@ def save_embedding(folder_path, db_type="faiss", db_path=None):
 
     if db_path == None:
         if db_type == "faiss":
-            db_path = "./database/faiss_db"
+            db_path = "./rag_core/database/faiss_db"
         else:
-            db_path = "./database/chroma_db"
+            db_path = "./rag_core/database/chroma_db"
 
     # Set up logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -41,9 +41,9 @@ def combine_embedding(folder_path, db_type="faiss", db_path=None):
     # Decide db-type
     if db_path == None:
         if db_type == "faiss":
-            db_path = "./database/faiss_db"
+            db_path = "./rag_core/database/faiss_db"
         else:
-            db_path = "./database/chroma_db"
+            db_path = "./rag_core/database/chroma_db"
 
     # Set up logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -71,4 +71,4 @@ def combine_embedding(folder_path, db_type="faiss", db_path=None):
     return update_db, embedding
 
 
-# save_embedding("/Users/dohoanggiahuy/Documents/Recent_files/abovedata/scrape/data/cocacola/document_txt")
+save_embedding("./web_scrape/data/denison/document_txt", db_path="./rag_core/database/denison")

@@ -1,6 +1,6 @@
 from langchain_chroma import Chroma
 
-def chroma_retriever(embedding, db_path="./database/chroma_db", search_type="similarity_score_threshold", score_threshold=0.5, k=5):
+def chroma_retriever(embedding, db_path="./rag_core/database/chroma_db", search_type="similarity_score_threshold", score_threshold=0.5, k=5):
     db = Chroma(
         persist_directory=db_path, 
         embedding_function=embedding)
