@@ -7,7 +7,7 @@ def prompt_template():
     Answer in the same language the question was asked.
     Answer in a way that is easy to understand.
     Do not say "Based on the information you provided, ..." or "I think the answer is...". Just answer the question directly in detail.
-    Use only the following pieces of context to answer the question at the end.
+    Use only the following pieces of context and chat history to answer the question at the end.
 
     Context: {context}
 

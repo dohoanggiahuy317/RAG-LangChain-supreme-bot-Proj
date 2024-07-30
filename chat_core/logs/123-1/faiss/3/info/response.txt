@@ -1,0 +1,302 @@
+QUESTION: What are Coca-Cola\u2019s primary goals in its sustainability initiatives, and how are they measured?
+
+--------------------------------------------------
+
+RESPONSE: Coca-Cola's primary goals in its sustainability initiatives include refreshing the world and making a difference, reducing greenhouse gas emissions by 25% by 2030 against a 2015 baseline, and achieving net zero emissions by 2050, which are measured through tracking progress on GHG emissions reduction, setting science-based targets, conducting regular assessments of Scope 1, 2, and 3 emissions, implementing sustainable agriculture practices, and reformulating products.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/cocacola/document_txt/document_50.txt
+web_scrape/data/cocacola/document_txt/document_50.txt
+web_scrape/data/cocacola/document_txt/document_66.txt
+web_scrape/data/cocacola/document_txt/document_1.txt
+web_scrape/data/cocacola/document_txt/document_50.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+At The Coca‑Cola Company, our Sustainability goals and initiatives are anchored by our purpose — to refresh the world and make a difference — and are core to our growth strategy.
+
+This resource provides an overview of our efforts to create a more sustainable business and better shared future, that makes a difference in people’s lives, communities and our planet.
+
+▼  CLICK ON A TOPIC OF YOUR INTEREST  ▼.
+
+A - D.
+
+E - K.
+
+L - R.
+
+S - Z.
+
+Alcohol Responsibility.
+
+Our entry into alcoholic beverages outside the U.
+
+S.
+
+brings new responsibilities1.
+
+To help ensure accountability, we’ve developed our.
+
+Global Policy on Alcohol Responsibility.
+
+These policies outline our commitment to grow our alcohol brands in a responsible way; prohibit marketing to people under the legal purchase age; and support responsible consumption.
+
+There are four components to the policy:.
+
+Responsibly marketing our alcohol brands.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+We continue to track and report our progress and strengthen our goals as needed to drive improved performance.
+
+We work to address many interconnected climate challenges, including ingredient and raw material scarcity, more frequent and severe natural disasters, water stress, greenhouse gas (GHG) emissions, energy management and packaging.
+
+For example, climate resilience is a key aspect of our water strategy; our.
+
+sustainable agriculture.
+
+practices include a focus on lower carbon emissions; and our.
+
+World Without Waste.
+
+initiative contributes significantly to our GHG reduction goals.
+
+We also recognize that the impacts of climate change are not equally felt across geographies and populations, which can exacerbate inequality and social unrest, and in turn, can also affect our business.
+
+To ensure we address these risks — and understand impact and opportunity — we have increased the ambition and reach of our climate goals across the Coca‑Cola system.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+The 100th EKOCENTER was opened in 2016 and the project continues to grow around the globe.
+
+This project also complements the 5by20 initiative that was launched in 2010.
+
+The Coca‑Cola Company’s sustainability efforts and goals continue to develop as the years go on and their impact can be found across the globe.
+
+Within the last 5 years, the Coca‑Cola Company has launched new initiatives and achieved many goals, such as accomplishing its 100 percent water replenishment goal five years ahead of schedule.
+
+The company will not stop once it has accomplished a goal; it creates new initiatives and works to create a bigger impact.
+
+The history of sustainability in the Coca‑Cola Company is an indication of how far the Company has come and how much farther it can go in the future.
+
+Related Content.
+
+Coca‑Cola Collaborates with Tech Partners to Create Bottle Prototype Made from 100% Plant-Based Sources.
+
+Read More.
+----------------------------------------------------------------------------------------------------
+Document 4:
+
+Two of The Coca‑Cola Company’s biggest brands in North America are taking major steps to support a circular economy for plastic packaging.
+
+Explore.
+
+Our 2030 Water Strategy Key Goals.
+
+The Coca‑Cola Company announced three goals accelerating its action on water during the UN 2023 Water Conference.
+
+Explore our 2030 Water Security Strategy.
+
+Previous.
+
+Next.
+
+Happy Tears.
+
+Economic Impact.
+
+Jack & Daniels and Coca‑Cola RTD Launches in US.
+
+Dasani and Sprite Boost Sustainability Packaging Credentials.
+
+2030 Water Strategy Key Goals.
+
+Coca‑Cola Company Jobs.
+
+We seek employees that embrace change, champion diversity and push for progress.
+
+Your skills and experience will help us navigate the ever-changing global landscape and guide us into the next chapter and beyond.
+
+Explore Jobs.
+
+A Purpose-Driven History.
+
+The Coca‑Cola Company’s purpose is to refresh the world and make a difference and we have remained true to that purpose for 137 years.
+----------------------------------------------------------------------------------------------------
+Document 5:
+
+To ensure we address these risks — and understand impact and opportunity — we have increased the ambition and reach of our climate goals across the Coca‑Cola system.
+
+Our “drink in your hand” goal was set in 2013 to take a step toward reducing GHG emissions.
+
+We met our goal to cut our carbon footprint across our full value chain by 25% by the end of 2020, against a 2010 baseline.
+
+As of 2022, we reduced our emissions across Scopes 1, 2 and 3 by 7%, making progress toward our science-based reduction target of 25% by 2030 against a 2015 baseline.
+
+Our ambition is to achieve net zero emissions by 2050.
+
+In 2022, our Scope 1 emissions were 4.
+
+4 million metric tons, Scope 2 emissions were 3.
+
+5 million metric tons and Scope 3 emissions were 57.
+
+0 million metric tons.
+
+Achieving these reductions will require us to continue the progress we have made over the last few years.
+
+The work we are doing through sustainable agriculture and product reformulations will help us achieve the target.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+QUESTION: Can you summarize your history reponse in 1 sentence?
+
+--------------------------------------------------
+
+RESPONSE: Here is a summary of my history response in 1 sentence:
+
+Coca-Cola's primary goals in its sustainability initiatives include refreshing the world and making a difference, reducing greenhouse gas emissions by 25% by 2030 against a 2015 baseline, and achieving net zero emissions by 2050, which are measured through various means.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/cocacola/document_txt/document_44.txt
+web_scrape/data/cocacola/document_txt/document_59.txt
+web_scrape/data/cocacola/document_txt/document_44.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+Read More.
+
+Iteration, for Good: How Project Last Mile is Supporting COVID-19 Vaccine Distribution in Africa and Beyond.
+
+Read More.
+
+United States | English.
+
+About us.
+
+Media Center.
+
+Coca‑Cola Foundation.
+
+Investors.
+
+Policies and Practices.
+
+Careers.
+
+Need help?.
+
+FAQ.
+
+Contact Us.
+
+International.
+
+California Notice at Collection.
+
+Do Not Sell My Personal Information.
+
+Terms of Use.
+
+Privacy Policy.
+
+Cookies Settings.
+
+Facebook.
+
+LinkedIn.
+
+Instagram.
+
+Youtube.
+
+© 2024 The Coca‑Cola Company.
+
+All rights reserved.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+Ingredients.
+
+What is caffeine?.
+
+How much sugar is in Coca‑Cola?.
+
+What is aspartame?.
+
+What is the difference between artificial sweeteners and sugar?.
+
+Packaging.
+
+Are all of your products recyclable?.
+
+Can bottle caps be recycled?.
+
+Rumors & Misinformation.
+
+Is it true that Coca‑Cola contains cocaine?.
+
+Is it true that teeth will dissolve if left overnight in Coca‑Cola?.
+
+Does Coca‑Cola send any of its profits to the Israeli army?.
+
+Is Coca‑Cola an Israeli-owned company?.
+
+Did Coca‑Cola invent Santa?.
+
+Shareowner Services.
+
+What is The Coca‑Cola Company’s ticker symbol and where does your stock trade?.
+
+How do I buy stock in The Coca‑Cola Company? What type of stock purchase plans do you have available?.
+
+When does the Company pay dividends?.
+
+What is the difference between holding shares as a shareowner of record and as a beneficial owner?.
+
+I am a shareowner and have questions about my stock ownership, who should I contact?.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+See the story here of how it all began.
+
+See the birth of Coca‑Cola.
+
+Coca‑Cola’s Sustainability History.
+
+Sustainability is not something new at The Coca‑Cola Company.
+
+Since 1917, our efforts have covered a wide range of topics including: water sustainability, women empowerment, community well-being, sustainable packaging, climate protection, human and workplace rights, and sustainable agriculture.
+
+Coca‑Cola’s Sustainability History.
+
+Making of ‘Hilltop’.
+
+Read the story about one of the most famous commercials that saw Coke not as it was originally designed to be—a liquid refresher—but as a tiny bit of commonality between all peoples, a universally liked formula that would help to keep them company for a few minutes.
+
+Learn about the background of “I’d like to buy the world a Coke.
+
+”.
+
+See “I’d Like to Buy the World a Coke”.
+
+Coca‑Cola’s First Bottle.
+
+The contour bottle has been celebrated in art, music and advertising.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+

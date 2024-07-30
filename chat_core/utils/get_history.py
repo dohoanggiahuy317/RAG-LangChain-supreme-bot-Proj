@@ -3,8 +3,8 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.runnables import ConfigurableFieldSpec
 
 
-def get_session_history(user_id: str, conversation_id: str):
-    return SQLChatMessageHistory(f"{user_id}--{conversation_id}", "sqlite:///memory.db")
+def get_session_history(user_id, conversation_id):
+    return SQLChatMessageHistory(f"{user_id}--{conversation_id}", "sqlite:///chat_core/database/memory.db")
 
 
 

@@ -1,0 +1,14 @@
+USER: What are Coca-Cola\u2019s primary goals in its sustainability initiatives, and how are they measured?
+
+SYSTEM: Coca-Cola's primary goals in its sustainability initiatives include refreshing the world and making a difference, reducing greenhouse gas emissions by 25% by 2030 against a 2015 baseline, and achieving net zero emissions by 2050, which are measured through tracking progress on GHG emissions reduction, setting science-based targets, conducting regular assessments of Scope 1, 2, and 3 emissions, implementing sustainable agriculture practices, and reformulating products.
+
+--------------------------------------------------
+
+USER: Can you summarize your history reponse in 1 sentence?
+
+SYSTEM: Here is a summary of my history response in 1 sentence:
+
+Coca-Cola's primary goals in its sustainability initiatives include refreshing the world and making a difference, reducing greenhouse gas emissions by 25% by 2030 against a 2015 baseline, and achieving net zero emissions by 2050, which are measured through various means.
+
+--------------------------------------------------
+

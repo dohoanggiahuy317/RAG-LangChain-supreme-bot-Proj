@@ -10,12 +10,6 @@ from utils.save_log import save_log
 import argparse
 import logging
 
-# class args():
-#     question = "What is Denison's value, mission, and vision?"
-#     compressor_type = 1
-#     db_type = "faiss"
-#     db_path = "./rag_core/database/denison/faiss_db"
-
 def main():
 
     # Parser for shell script
@@ -38,15 +32,9 @@ def main():
     logging.info("Getting compressed_docs")
     if int(args.compressor_type) == 3:
         compressed_docs = get_compressed_docs(args.question, embedding, retriever)
-        
-        save_log(args.question + "\n\n" + pretty_print_docs(compressed_docs), "./rag_core/logs/compress_docs/3/compressed_docs.txt")
-        save_log(args.question + "\n\n" + "\n".join(list(map(lambda x: str(x.metadata["source"]), compressed_docs))), "./rag_core/logs/compress_docs/3/metadata.txt")
     else:
         llm = OllamaLLM(model="llama3")
         compressed_docs = get_compressed_docs(args.question, llm, retriever)
-
-        save_log(args.question + "\n\n" + pretty_print_docs(compressed_docs), f"./rag_core/logs/compress_docs/{str(args.compressor_type)}/compressed_docs.txt")
-        save_log(args.question + "\n\n" + "\n".join(list(map(lambda x: str(x.metadata["source"]), compressed_docs))), f"./rag_core/logs/compress_docs/{str(args.compressor_type)}/metadata.txt")
 
     # Get response
     rag_chain = get_LLM(compressed_docs)
@@ -57,12 +45,14 @@ def main():
     # Log the response
     logging.info(f"RESPONSE -- \n {response} \n")
 
-
-    if str(args.db_type) == "faiss":        
-        save_log(args.question + "\n\n" + response, f"./rag_core/logs/faiss/{str(args.compressor_type)}/response.txt")
-    else:
-        save_log(args.question + "\n\n" + response, f"./rag_core/logs/chroma/{str(args.compressor_type)}/response.txt")
-
+    # Save the answer log to txt file
+    save_log(
+        "QUESTION: " + args.question + "\n\n" + "-"*50 + "\n\n"
+        "RESPONSE: " + response + "\n\n" + "-"*50 + "\n\n"
+        "METADATA: \n" + "\n".join(list(map(lambda x: str(x.metadata["source"]), compressed_docs))) + "\n\n" + "-"*50 + "\n\n"
+        "DOCUMENTS: \n" + pretty_print_docs(compressed_docs),
+        f"./rag_core/logs/{str(args.db_type)}/{str(args.compressor_type)}/response.txt"
+    )
 
     return response
 
