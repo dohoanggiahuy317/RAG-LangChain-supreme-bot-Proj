@@ -32,7 +32,7 @@ def main():
 
     # Load neccessary components
     embedding, retriever = load_retriever(db_type = args.db_type, db_path = args.db_path)
-    get_compressed_docs = load_CCCompressor( compressor_type = int(args.compressor_type))
+    get_compressed_docs = load_CCCompressor(compressor_type = int(args.compressor_type))
     
     # Ranking the documents
     logging.info("Getting compressed_docs")

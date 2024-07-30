@@ -1,8 +1,8 @@
-from utils.document_loader import load_docs_from_folder
-from utils.text_split import text_split
-from utils.vectorstore.faiss_vectorstore import faiss_vectorstore, faiss_combine
-from utils.vectorstore.chroma_vectorstore import chroma_vectorstore
-from utils.embedding import get_embedding
+from rag_core.utils.document_loader import load_docs_from_folder
+from rag_core.utils.text_split import text_split
+from rag_core.utils.vectorstore.faiss_vectorstore import faiss_vectorstore, faiss_combine
+from rag_core.utils.vectorstore.chroma_vectorstore import chroma_vectorstore
+from rag_core.utils.embedding import get_embedding
 
 import logging
 import argparse

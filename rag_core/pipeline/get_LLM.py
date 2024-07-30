@@ -3,7 +3,6 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnableLambda
-from langchain_core.prompts import PromptTemplate
 
 
 import logging

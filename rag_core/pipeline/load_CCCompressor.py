@@ -1,4 +1,4 @@
-from utils.contextual_compression import llm_extract, llm_filter, embedding_filter
+from rag_core.utils.contextual_compression import llm_extract, llm_filter, embedding_filter
 
 import logging
 

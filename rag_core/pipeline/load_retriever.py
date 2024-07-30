@@ -1,6 +1,6 @@
-from utils.embedding import get_embedding
-from utils.retriever.faiss_retriever import faiss_retriever
-from utils.retriever.chroma_retriever import chroma_retriever
+from rag_core.utils.embedding import get_embedding
+from rag_core.utils.retriever.faiss_retriever import faiss_retriever
+from rag_core.utils.retriever.chroma_retriever import chroma_retriever
 
 import logging
 
