@@ -1,0 +1,800 @@
+QUESTION: Who is the current President of Hanu?
+
+--------------------------------------------------
+
+RESPONSE: According to the provided context, the President Nguyen Van Trao welcomed the former President of Chile and signed a cooperation agreement with Cerro Navia District. However, there is no mention of the current President of HANU (Hanoi University). Therefore, I don't know who the current President of Hanu is.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/hanu/document_txt/document_70.txt
+web_scrape/data/hanu/document_txt/document_49.txt
+web_scrape/data/hanu/document_txt/document_5.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+hanu.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+President Nguyen Van Trao Welcomes the Former President of Chile and Signs the Cooperation Agreement with Cerro Navia District : Hanoi University | International Office.
+
+English.
+
+Toggle navigation.
+
+INTRODUCTION.
+
+Message from the President.
+
+Vision and Mission.
+
+Brief on HANU Programs.
+
+Partners.
+
+Europe.
+
+Asia.
+
+Australia.
+
+America.
+
+Africa.
+
+Contact Us.
+
+COURSES.
+
+Foreign languages.
+
+English Studies.
+
+Russian Studies.
+
+French Studies.
+
+German Studies.
+
+Italian Studies.
+
+Spanish Studies.
+
+Portuguese Studies.
+
+Chinese Studies.
+
+Korean Studies.
+
+Japanese Studies.
+
+Vietnamese Language & Culture.
+
+Foundation Studies.
+
+Information Technology.
+
+Management & Tourism.
+
+Finance – Banking.
+
+Accounting.
+
+International Studies.
+
+ACADEMICS.
+
+Domestic Programs.
+
+International Joint Programs.
+
+La Trobe University (Australia).
+
+Waikato University (New Zealand).
+
+IMC FH Krems University (Austria).
+
+Oxford Brookes University (UK).
+
+University of Canberra (Australia).
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+Tel:.
+
++84-24-3854 2329 |.
+
+Fax:.
+
++84-24-3854 4550 | Email : international@hanu.
+
+vn.
+
+INTRODUCTION.
+
+Message from the President.
+
+Vision and Mission.
+
+Brief on HANU Programs.
+
+Partners.
+
+Europe.
+
+Asia.
+
+Australia.
+
+America.
+
+Africa.
+
+Contact Us.
+
+COURSES.
+
+Foreign languages.
+
+English Studies.
+
+Russian Studies.
+
+French Studies.
+
+German Studies.
+
+Italian Studies.
+
+Spanish Studies.
+
+Portuguese Studies.
+
+Chinese Studies.
+
+Korean Studies.
+
+Japanese Studies.
+
+Vietnamese Language & Culture.
+
+Foundation Studies.
+
+Information Technology.
+
+Management & Tourism.
+
+Finance – Banking.
+
+Accounting.
+
+International Studies.
+
+ACADEMICS.
+
+Domestic Programs.
+
+International Joint Programs.
+
+La Trobe University (Australia).
+
+Waikato University (New Zealand).
+
+IMC FH Krems University (Austria).
+
+Oxford Brookes University (UK).
+
+University of Canberra (Australia).
+
+Catholic University of Louvain (Belgium).
+
+Nara Women’s University (Japan).
+
+Vietnamese Language Programs.
+
+Summer Study Tour Programs.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+QUESTION: Who is the Dean of English Department?
+
+--------------------------------------------------
+
+RESPONSE: I don't know. The provided context does not mention the Dean of the English Department at Hanoi University. It only provides information about the departments themselves, such as the number of lecturers and students, but does not provide details on administrative positions like the Dean.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/hanu/document_txt/document_26.txt
+web_scrape/data/hanu/document_txt/document_37.txt
+web_scrape/data/hanu/document_txt/document_21.txt
+web_scrape/data/hanu/document_txt/document_17.txt
+web_scrape/data/hanu/document_txt/document_26.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+Oxford Brookes University (UK).
+
+University of Canberra (Australia).
+
+Catholic University of Louvain (Belgium).
+
+Nara Women’s University (Japan).
+
+Vietnamese Language Programs.
+
+Summer Study Tour Programs.
+
+Resources.
+
+ADMISSION.
+
+Enrolments.
+
+Tuition Fee.
+
+Visa & Work Permit Application.
+
+EXCHANGE PROGRAMS.
+
+In-bound Program.
+
+Out-bound Program.
+
+Scholarship.
+
+LEGAL DOCUMENTS.
+
+FAQ.
+
+English Studies.
+
+As founded in 1967, an English Studies Department has been striving to become one of the HANU’s biggest language departments.
+
+The English Studies Department has been the most prestigious address of the English language delivery in Vietnam-wide.
+
+TRAINING STRUCTURE.
+
+LECTURERS.
+
+– There are 80 contracted lecturers, more than 50 guest lecturers, and international visiting experts.
+
+– More than two thirds of lecturers receive educations in speaking countries, such as UK, Australia, USA, Canada, New Zealand.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+– The program is designed to be appropriate with students of six majors to be delivered in the English language only;.
+
+– Curricula and pedagogical methodologies have been updated;.
+
+– A variety of curricula are useful with students of different English levels and appropriate with the programs’ purposes;.
+
+– Lecturers are experienced at the English language teaching;.
+
+– There is a technological application in the English teaching;.
+
+– Students are trained with skills of performing well at the IELTS test;.
+
+– The IELTS – format test is applied at evaluating students’ English ability before they are allowed to take major courses.
+
+LECTURERS.
+
+– The Department has more than 60 faculty staffs and lecturers; the majority of them received education at Master of Doctor levels in countries of advanced education systems, such as UK, USA, Australia and New Zealand;.
+
+– All staffs are dynamic, creative, open to students and committed to their pedagogical career.
+
+STUDENTS.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+Oxford Brookes University (UK).
+
+University of Canberra (Australia).
+
+Catholic University of Louvain (Belgium).
+
+Nara Women’s University (Japan).
+
+Vietnamese Language Programs.
+
+Summer Study Tour Programs.
+
+Resources.
+
+ADMISSION.
+
+Enrolments.
+
+Tuition Fee.
+
+Visa & Work Permit Application.
+
+EXCHANGE PROGRAMS.
+
+In-bound Program.
+
+Out-bound Program.
+
+Scholarship.
+
+LEGAL DOCUMENTS.
+
+FAQ.
+
+Spanish Studies.
+
+The Spanish Studies Department founded in 2004 from a Spanish Division has been the University’s new department, aiming to meet a demand for learning the Spanish Language and Culture in Vietnam.
+
+The Department strives hard to provide quality Spanish education for its students.
+
+TRAINING STRUCTURE.
+
+LECTURERS.
+
+– The Department has 11 contracted and guest lecturers, among whom one is a native lecturer;.
+
+– The Faculty staff are young, dynamic, and committed to their pedagogical career;.
+
+– The majority of the local lecturers received education in Spain or Mexico.
+----------------------------------------------------------------------------------------------------
+Document 4:
+
+Oxford Brookes University (UK).
+
+University of Canberra (Australia).
+
+Catholic University of Louvain (Belgium).
+
+Nara Women’s University (Japan).
+
+Vietnamese Language Programs.
+
+Summer Study Tour Programs.
+
+Resources.
+
+ADMISSION.
+
+Enrolments.
+
+Tuition Fee.
+
+Visa & Work Permit Application.
+
+EXCHANGE PROGRAMS.
+
+In-bound Program.
+
+Out-bound Program.
+
+Scholarship.
+
+LEGAL DOCUMENTS.
+
+FAQ.
+
+French Studies.
+
+The French Studies Department was founded in 1967.
+
+Since then, the Department has been striving to prove its importance.
+
+TRAINING STRUCTURE.
+
+LECTURERS.
+
+– The department has 27 contracted and guest lecturers inclusive of 2 associate professors, 8 doctors, 8 researchers, 7 master-holders, and 4 bachelor-holders, all whom, received education in prestigious universities in France, Belgium, and Canada;.
+----------------------------------------------------------------------------------------------------
+Document 5:
+
+– More than two thirds of lecturers receive educations in speaking countries, such as UK, Australia, USA, Canada, New Zealand.
+
+Their majors are Teaching English to Speakers of Other Languages (TESOL), Applied Language Studies, Pedagogical Administration and so forth.
+
+– Many young lecturers have been taking post-graduate programs in Vietnam and foreign countries.
+
+STUDENTS.
+
+– The number of students in the English Studies Department is more than 2,000, having enrolled in a full-time program and in-service programs.
+
+– Thousands of students have graduated from the department to become lecturers of the English language, interpreters or translators.
+
+Many graduates of English proficiency are employees of local and international organizations as well.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+QUESTION: How many graduated students from Hanu?
+
+--------------------------------------------------
+
+RESPONSE: I don't know how many graduated students from HaNU (Hanoi University) because this information is not provided in the given context. The context only mentions that "thousands of our alumni have discovered" something, but it does not specify the exact number of graduates.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/hanu/document_txt/document_52.txt
+web_scrape/data/hanu/document_txt/document_6.txt
+web_scrape/data/hanu/document_txt/document_24.txt
+web_scrape/data/hanu/document_txt/document_11.txt
+web_scrape/data/hanu/document_txt/document_1.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+Oxford Brookes University (UK).
+
+University of Canberra (Australia).
+
+Catholic University of Louvain (Belgium).
+
+Nara Women’s University (Japan).
+
+Vietnamese Language Programs.
+
+Summer Study Tour Programs.
+
+Resources.
+
+ADMISSION.
+
+Enrolments.
+
+Tuition Fee.
+
+Visa & Work Permit Application.
+
+EXCHANGE PROGRAMS.
+
+In-bound Program.
+
+Out-bound Program.
+
+Scholarship.
+
+LEGAL DOCUMENTS.
+
+FAQ.
+
+Vision and Mission.
+
+Our mission.
+
+HANU is an education, research, and technology transfer institution providing high-quality bachelor and master level graduates into the labor force who have significant expertise, high foreign language proficiency, and IT literacy, responding to the labor market demands in the country and internationally.
+
+Our vision.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+Our beautiful campus with compact buildings equipped with state-of-the-art facilities is harmoniously merged with surrounding green scenery.
+
+As thousands of our alumni have discovered, HaNU exemplifies the very best traditions of a foreign language college with a wide range of curricula grounded in various foreign languages.
+
+HaNU proudly claims itself a multi-cultural environment, yet, preserves the national identities.
+
+Nurturing global citizens with innovative and critical mindset, HANU is strongly committed to comprehensive internationalization approach and bound for a regional class university with international standard programs.
+
+Today, HaNU offers multi-discipline programs at both undergraduate and graduate levels delivered in foreign languages and continues to build on its main strengths and foundation that supported the college at its beginning 60 years ago.
+
+HaNU embraces the philosophy that students center the institution’s development strategy.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+STUDENTS.
+
+– The Department has 15 classes with about 300 full-time students;.
+
+– Students engage in activities and talent contests, such as the Freshmen Welcoming Ceremony, Russian Culture Festival Week, Campus Star Contest, Green Summer, etc.
+
+– Awards and scholarships from Russian universities have been won by students;.
+
+– Students have also won awards for “Students’ Scientific Research” or “Young Scientific Talent” held by the Vietnamese Ministry of Education and Training and Hanoi University;.
+
+– Scholarships granted to students studying in Russian universities have also been awarded to HANU students.
+
+’.
+
+of Russian Studies; besides, they are granted other scholarships such as Global Corporation (Japan), Terufumi Nozawa – Nghiêm Việt Hương, Students Win Poor Destiny, etc.
+
+INTERNATIONAL RELATIONS.
+----------------------------------------------------------------------------------------------------
+Document 4:
+
+Eligibility: Candidates must be officially nominated by their home institution and meet the language requirements, as well as other criteria depending on faculty and program.
+
+Academic options: Exchange students choose to enroll into 01 major among 11 foreign language bachelor programs (English, French, Russian, German, Japanese, Chinese, Korean, Spanish, Portuguese, Italian, and Vietnamese Language and Culture) or 06 English-delivered bachelor programs (Business Administration, Tourism Management, Finance and Banking, Accounting, Information Technology and International Studies) provided at HANU.
+
+The specific course list is provided and course registration is confirmed after students are admitted to HANU.
+
+Application: Required application documents should be submitted through students’ home institution to HANU before 15 May for Fall semester and 01 November for Spring semester.
+
+On-campus housing is provided if registered.
+
+Visa application is supported by HANU upon admission.
+
+B.
+----------------------------------------------------------------------------------------------------
+Document 5:
+
+As one of the oldest institutions of higher education in the capital city of Vietnam, Hanoi University (HaNU) combines the best of a rich cultural heritage of Hanoi with a vibrant academic experience.
+
+Situated on 8 hectares to the South East of the city in Thanh Xuan district, the university is only 30 minutes away from the old quarter of Hanoi.
+
+Our beautiful campus with compact buildings equipped with state-of-the-art facilities is harmoniously merged with surrounding green scenery.
+
+As thousands of our alumni have discovered, HaNU exemplifies the very best traditions of a foreign language college with a wide range of curricula grounded in various foreign languages.
+
+HaNU proudly claims itself a multi-cultural environment, yet, preserves the national identities.
+
+Nurturing global citizens with innovative and critical mindset, HANU is strongly committed to comprehensive internationalization approach and bound for a regional class university with international standard programs.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+QUESTION: How much does the tuition cost?
+
+--------------------------------------------------
+
+RESPONSE: According to the provided context, the tuition fee varies depending on the program and nationality. For Bachelor's Degree Programs, the tuition fee is 40,000,000 – 50,000,000 VND per academic year (depending on students' nationality). For Short Course, the tuition fee is 4,000,000 – 5,000,000 VND per month (depending on students' nationality), and for Private Vietnamese Language Short Course, the tuition fee is 20,000,000 VND per year.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/hanu/document_txt/document_42.txt
+web_scrape/data/hanu/document_txt/document_3.txt
+web_scrape/data/hanu/document_txt/document_42.txt
+web_scrape/data/hanu/document_txt/document_59.txt
+web_scrape/data/hanu/document_txt/document_59.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+University of Canberra (Australia).
+
+Catholic University of Louvain (Belgium).
+
+Nara Women’s University (Japan).
+
+Vietnamese Language Programs.
+
+Summer Study Tour Programs.
+
+Resources.
+
+ADMISSION.
+
+Enrolments.
+
+Tuition Fee.
+
+Visa & Work Permit Application.
+
+EXCHANGE PROGRAMS.
+
+In-bound Program.
+
+Out-bound Program.
+
+Scholarship.
+
+LEGAL DOCUMENTS.
+
+FAQ.
+
+Tuition Fee.
+
+Bachelor’s Degree Programs.
+
+Tuition fee: 40,000,000 – 50,000,000 VND per academic year.
+
+(depending on students’ nationality).
+
+Dormitory fee: from 2,000,000 VND per month (depending on room type).
+
+Registration fee: 700,000 VND.
+
+Medical first-aid service fee: 500,000 VND per academic year.
+
+Short Course.
+
+Tuition fee: 4,000,000 – 5,000,000 VND per month.
+
+(depending on students’ nationality).
+
+Dormitory fee: from 2,000,000 VND per month (depending on room type).
+
+Registration fee: 700,000 VND.
+
+Medical first-aid service fee: 50,000 VND per month.
+
+Private Vietnamese Language Short Course.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+– Tuition fee for enrolled applicants at Hanoi University is VND 20,000,000 per year.
+
+– Tuition fee for enrolled applicants at Catholic University of Louvain is VND 24,500,000 per year.
+
+– All expenses during the study at Catholic University of Louvain, including round-way flight tickets, insurance and visa fee, living cost and other expenses are paid by students themselves.
+
+Contact information:.
+
+Department of Post-graduate Studies.
+
+Room 211 – Building C – Hanoi University.
+
+Phone: (84.
+
+4)38544498.
+
+Fax: (84.
+
+4)38544550.
+
+Email:.
+
+khoasdh@hanu.
+
+edu.
+
+vn.
+
+Website:.
+
+http://web.
+
+hanu.
+
+vn/sdh.
+
+DOCTOR OF FRENCH STUDIES.
+
+(.
+
+This programme was officially approved in accordance with the Decision No.
+
+160/QĐ-BGDĐT date 11th January 2013.
+
+).
+
+Candidates and entry requirements:.
+
+– Applicants must have a recognized master’s degree in French studies or French language and culture.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+Dormitory fee: from 2,000,000 VND per month (depending on room type).
+
+Registration fee: 700,000 VND.
+
+Medical first-aid service fee: 50,000 VND per month.
+
+Private Vietnamese Language Short Course.
+
+Tuition fee: 450,000 VND per hour per student.
+
+Dormitory fee: from 2,000,000 VND per month (depending on room type).
+
+Registration fee: 700,000 VND.
+
+Medical first-aid service fee: 50,000 VND per month.
+
+Latest Posts.
+
+Ambassador of Chile to Vietnam Visits and Works with Hanoi University.
+
+Hanoi University Works with The President of the International Association of Applied Linguistics and The President of the Applied Linguistics Association of Australia.
+
+President Nguyen Van Trao Welcomes the Former President of Chile and Signs the Cooperation Agreement with Cerro Navia District.
+
+President of Hanoi University visits and works with Spanish partners.
+
+Broadmoor, CIEE and Speedwing Asia visit Hanoi University and conduct interviews with students of Tourism and Hotel Management.
+----------------------------------------------------------------------------------------------------
+Document 4:
+
+Oxford Brookes University (UK).
+
+University of Canberra (Australia).
+
+Catholic University of Louvain (Belgium).
+
+Nara Women’s University (Japan).
+
+Vietnamese Language Programs.
+
+Summer Study Tour Programs.
+
+Resources.
+
+ADMISSION.
+
+Enrolments.
+
+Tuition Fee.
+
+Visa & Work Permit Application.
+
+EXCHANGE PROGRAMS.
+
+In-bound Program.
+
+Out-bound Program.
+
+Scholarship.
+
+LEGAL DOCUMENTS.
+
+FAQ.
+
+Out-bound Program.
+
+Students have an opportunity to study abroad for one semester or one academic year atone of our partner universities all over the world.
+
+A.
+
+TYPES OF PROGRAMS.
+
+REGULAR SEMESTER PROGRAM (SPRING AND FALL SEMESTERS).
+
+Exchange students pay full tuition fees to the home university, the tuition to the partner university is fully waived.
+
+SCHOLARSHIP PROGRAM.
+----------------------------------------------------------------------------------------------------
+Document 5:
+
+REGULAR SEMESTER PROGRAM (SPRING AND FALL SEMESTERS).
+
+Exchange students pay full tuition fees to the home university, the tuition to the partner university is fully waived.
+
+SCHOLARSHIP PROGRAM.
+
+Exchange students might receive any scholarship granted by any foreign or national government and/or organization at one of the host institutions so that (s)he can study in one of the HANU exchange partner universities; beside the fully-waived tuition fee at the host university, exchange students might be granted monthly allowance, and/or free accommodation, insurance, etc.
+
+SHORT-TERM PROGRAM (SUMMER AND/OR WINTER COURSES).
+
+Students might (not) be waived the tuition fee at the host university; other fees, inclusive of accommodation, two-way air fares, living expenses, insurance,visa, etc.
+
+, must be borne by students.
+
+B.
+
+EXCHANGE PARTNERS.
+
+Partners.
+
+Country.
+
+1.
+
+Nine national colleges of technology in Kyushu-Okinawa Region.
+
+Japan.
+
+2.
+
+Meiji University.
+
+Japan.
+
+3.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+

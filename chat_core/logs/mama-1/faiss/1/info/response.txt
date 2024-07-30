@@ -1,0 +1,39 @@
+QUESTION: Who is the current President of Hanu?
+
+--------------------------------------------------
+
+RESPONSE: I don't know.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/hanu/document_txt/document_49.txt
+web_scrape/data/hanu/document_txt/document_2.txt
+web_scrape/data/hanu/document_txt/document_64.txt
+web_scrape/data/hanu/document_txt/document_5.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+NO_OUTPUT. None of the context is relevant to answer the question about the current President of Hanu, as there is no mention of a "Hanu" in the provided context. The context only talks about the President of Hanoi University and various international agreements and partnerships.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+NO_OUTPUT.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+NO_OUTPUT.
+----------------------------------------------------------------------------------------------------
+Document 4:
+
+NO_OUTPUT
+
+There is no mention of Hanu in the context, only a university or institution named HANU. Therefore, there is no current President of Hanu to extract.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+

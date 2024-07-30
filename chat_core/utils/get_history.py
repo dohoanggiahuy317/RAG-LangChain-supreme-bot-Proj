@@ -1,11 +1,22 @@
 from langchain_community.chat_message_histories import SQLChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.runnables import ConfigurableFieldSpec
+import os
 
 
 def get_session_history(user_id, conversation_id):
-    return SQLChatMessageHistory(f"{user_id}--{conversation_id}", "sqlite:///chat_core/database/memory.db")
+    # Define the database path
+    database_path = "chat_core/database/memory.db"
+    # Extract the directory from the path
+    database_dir = os.path.dirname(database_path)
 
+    # Check if the directory exists; if not, create it
+    if not os.path.exists(database_dir):
+        os.makedirs(database_dir)
+        print(f"Created directory: {database_dir}")
+
+    # Return the SQLChatMessageHistory instance
+    return SQLChatMessageHistory(f"{user_id}--{conversation_id}", f"sqlite:///{database_path}")
 
 
 def get_runnable_history(runnable):

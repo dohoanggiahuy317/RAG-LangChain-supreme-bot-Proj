@@ -1,0 +1,24 @@
+USER: Who is the current President of Hanu?
+
+SYSTEM: According to the provided context, the President Nguyen Van Trao welcomed the former President of Chile and signed a cooperation agreement with Cerro Navia District. However, there is no mention of the current President of HANU (Hanoi University). Therefore, I don't know who the current President of Hanu is.
+
+--------------------------------------------------
+
+USER: Who is the Dean of English Department?
+
+SYSTEM: I don't know. The provided context does not mention the Dean of the English Department at Hanoi University. It only provides information about the departments themselves, such as the number of lecturers and students, but does not provide details on administrative positions like the Dean.
+
+--------------------------------------------------
+
+USER: How many graduated students from Hanu?
+
+SYSTEM: I don't know how many graduated students from HaNU (Hanoi University) because this information is not provided in the given context. The context only mentions that "thousands of our alumni have discovered" something, but it does not specify the exact number of graduates.
+
+--------------------------------------------------
+
+USER: How much does the tuition cost?
+
+SYSTEM: According to the provided context, the tuition fee varies depending on the program and nationality. For Bachelor's Degree Programs, the tuition fee is 40,000,000 – 50,000,000 VND per academic year (depending on students' nationality). For Short Course, the tuition fee is 4,000,000 – 5,000,000 VND per month (depending on students' nationality), and for Private Vietnamese Language Short Course, the tuition fee is 20,000,000 VND per year.
+
+--------------------------------------------------
+
