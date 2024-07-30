@@ -1,0 +1,67 @@
+QUESTION: What are Coca-Cola’s primary goals in its sustainability initiatives, and how are they measured?
+
+--------------------------------------------------
+
+RESPONSE: Coca-Cola's primary goals in its sustainability initiatives include addressing climate challenges, promoting sustainable agriculture practices, and reducing greenhouse gas emissions. They aim to achieve net zero emissions by 2050 and have set targets such as reducing carbon footprint across the value chain by 25% by 2030. The company measures progress toward these goals through metrics like Scope 1, 2, and 3 emissions, which were reduced by 7% in 2022 compared to a 2015 baseline.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/cocacola/document_txt/document_50.txt
+web_scrape/data/cocacola/document_txt/document_50.txt
+web_scrape/data/cocacola/document_txt/document_50.txt
+web_scrape/data/cocacola/document_txt/document_66.txt
+web_scrape/data/cocacola/document_txt/document_1.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+Here is the extracted relevant part of the context:
+
+At The Coca‑Cola Company, our Sustainability goals and initiatives are anchored by our purpose — to refresh the world and make a difference — and are core to our growth strategy.
+
+This resource provides an overview of our efforts to create a more sustainable business and better shared future, that makes a difference in people’s lives, communities and our planet.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+Here are the extracted relevant parts:
+
+We work to address many interconnected climate challenges, including ingredient and raw material scarcity, more frequent and severe natural disasters, water stress, greenhouse gas (GHG) emissions, energy management and packaging.
+
+For example, climate resilience is a key aspect of our water strategy; our sustainable agriculture practices include a focus on lower carbon emissions; and our World Without Waste initiative contributes significantly to our GHG reduction goals.
+
+We also recognize that the impacts of climate change are not equally felt across geographies and populations, which can exacerbate inequality and social unrest, and in turn, can also affect our business.
+
+To ensure we address these risks — and understand impact and opportunity — we have increased the ambition and reach of our climate goals across the Coca‑Cola system.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+Here are the extracted relevant parts of the context:
+
+To ensure we address these risks — and understand impact and opportunity — we have increased the ambition and reach of our climate goals across the Coca‑Cola system.
+
+Our “drink in your hand” goal was set in 2013 to take a step toward reducing GHG emissions.
+
+We met our goal to cut our carbon footprint across our full value chain by 25% by the end of 2020, against a 2010 baseline.
+
+As of 2022, we reduced our emissions across Scopes 1, 2 and 3 by 7%, making progress toward our science-based reduction target of 25% by 2030 against a 2015 baseline.
+
+Our ambition is to achieve net zero emissions by 2050.
+
+In 2022, our Scope 1 emissions were 4.4 million metric tons, Scope 2 emissions were 3.5 million metric tons and Scope 3 emissions were 57.0 million metric tons.
+----------------------------------------------------------------------------------------------------
+Document 4:
+
+NO_OUTPUT.
+----------------------------------------------------------------------------------------------------
+Document 5:
+
+Here are the extracted relevant parts of the context:
+
+* Two of The Coca-Cola Company's biggest brands in North America are taking major steps to support a circular economy for plastic packaging.
+
+**NO_OUTPUT**
+
+Note: Since there is no mention of sustainability initiatives or measurement goals specifically related to those initiatives, I did not extract any further context.

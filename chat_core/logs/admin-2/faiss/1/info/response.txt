@@ -1,0 +1,107 @@
+QUESTION: What are Coca-Cola\u2019s primary goals in its sustainability initiatives, and how are they measured?
+
+--------------------------------------------------
+
+RESPONSE: At The Coca-Cola Company, our Sustainability goals and initiatives are anchored by our purpose - to refresh the world and make a difference - and are core to our growth strategy.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/cocacola/document_txt/document_50.txt
+web_scrape/data/cocacola/document_txt/document_50.txt
+web_scrape/data/cocacola/document_txt/document_66.txt
+web_scrape/data/cocacola/document_txt/document_1.txt
+web_scrape/data/cocacola/document_txt/document_50.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+Here is the extracted part of the context that is relevant to answer the question:
+
+> At The Coca‑Cola Company, our Sustainability goals and initiatives are anchored by our purpose — to refresh the world and make a difference — and are core to our growth strategy.
+
+This is the only relevant part of the context that provides information about Coca-Cola's primary goals in its sustainability initiatives.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+Here are the extracted parts of the context that are relevant to answer the question:
+
+We continue to track and report our progress and strengthen our goals as needed to drive improved performance.
+
+To ensure we address these risks — and understand impact and opportunity — we have increased the ambition and reach of our climate goals across the Coca‑Cola system.
+
+World Without Waste.
+
+initiative contributes significantly to our GHG reduction goals.
+
+These parts are relevant because they mention tracking progress, strengthening goals, measuring impact, and contributing to greenhouse gas (GHG) emissions reduction, which are all related to Coca-Cola's sustainability initiatives.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+NO_OUTPUT. The provided context does not contain information about Coca-Cola's primary goals in its sustainability initiatives or how they are measured.
+----------------------------------------------------------------------------------------------------
+Document 4:
+
+Here are the extracted relevant parts of the context:
+
+* Two of The Coca-Cola Company's biggest brands in North America are taking major steps to support a circular economy for plastic packaging.
+* Our 2030 Water Strategy Key Goals.
+
+These parts seem to be relevant to answering the question about Coca-Cola's primary goals in its sustainability initiatives and how they are measured.
+----------------------------------------------------------------------------------------------------
+Document 5:
+
+Here are the extracted parts of the context that are relevant to answer the question:
+
+To ensure we address these risks — and understand impact and opportunity — we have increased the ambition and reach of our climate goals across the Coca‑Cola system.
+
+Our ambition is to achieve net zero emissions by 2050.
+
+In 2022, our Scope 1 emissions were 4.4 million metric tons, Scope 2 emissions were 3.5 million metric tons and Scope 3 emissions were 57.0 million metric tons.
+
+Achieving these reductions will require us to continue the progress we have made over the last few years.
+
+These parts of the context are relevant because they discuss Coca-Cola's sustainability initiatives, specifically their climate goals and emission reduction targets.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+QUESTION: Can you summarize your history reponse in 1 sentence?
+
+--------------------------------------------------
+
+RESPONSE: Coca-Cola's sustainability efforts date back to 1917 and have covered various topics, including water sustainability, women empowerment, community well-being, sustainable packaging, climate protection, human and workplace rights, and sustainable agriculture.
+
+--------------------------------------------------
+
+METADATA: 
+web_scrape/data/cocacola/document_txt/document_23.txt
+web_scrape/data/cocacola/document_txt/document_59.txt
+web_scrape/data/cocacola/document_txt/document_44.txt
+
+--------------------------------------------------
+
+DOCUMENTS: 
+Document 1:
+
+NO_OUTPUT. There is no relevant part in the provided context to answer the question about summarizing the history response in 1 sentence.
+----------------------------------------------------------------------------------------------------
+Document 2:
+
+NO_OUTPUT.
+----------------------------------------------------------------------------------------------------
+Document 3:
+
+*AS IS*
+
+Sustainability is not something new at The Coca-Cola Company. Since 1917, our efforts have covered a wide range of topics including: water sustainability, women empowerment, community well-being, sustainable packaging, climate protection, human and workplace rights, and sustainable agriculture.
+
+Note: This is the relevant part of the context that answers the question about the history of sustainability at Coca-Cola.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
